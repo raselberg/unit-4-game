@@ -1,0 +1,78 @@
+body{
+  background-image: url("../images/zlatovlaska1180600026.jpg");
+}
+
+
+.title{
+color: whitesmoke;
+width:50%;
+padding: 1px;
+margin: 1%;
+text-align: center;
+font-family: 'Parisienne', cursive;
+font-size: 35px;
+text-shadow: 5px 5px 40px black;
+}
+
+
+.instructions{
+  width:50%;
+  padding: 1px;
+  margin: 1%;
+  background-color:white;
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+
+.randomNumber{
+  width:50%;
+  padding: 1px;
+  margin: 1%;
+  background-color: white;
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+
+
+.winsLosses{
+  width:50%;
+  padding: 1px;
+  margin: 1%;
+  background-color: lightgray;
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+
+
+.jewelOne{
+margin-left: 2%;
+float: left;
+}
+
+
+.jewelTwo{
+float: left;
+margin-left: 2%;
+}
+
+.jewelThree{
+float: left;
+margin-left: 2%;
+}
+
+.jewelFour{
+float: left;
+margin-left: 2%;
+}
+
+.totalScore{
+margin-bottom: 2%;
+width:50%;
+padding: 1px;
+margin: 1%;
+background-color: white;
+text-align: center;
+font-family: 'Major Mono Display', monospace; 
+}
+
+
